@@ -66,6 +66,10 @@ Ready after about 50 s. How a model bigger than the card runs: [`docs/BIG_MODELS
 
 Step by step, what the log should say, other models: [`docs/QUICKSTART.md`](docs/QUICKSTART.md). Build the image yourself or run without Docker: [`docs/BUILD.md`](docs/BUILD.md).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Imp/)
+
 ## Which model?
 
 | You want | Take |
